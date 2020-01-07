@@ -4,7 +4,7 @@ It allows to search one (or several) template images into a larger image.
 
 We currently have implemented Multi-Template Matching in:
 
-- [Fji](https://github.com/multi-template-matching/MultiTemplateMatching-Fiji)  
+- [Fiji](https://github.com/multi-template-matching/MultiTemplateMatching-Fiji)  
 Activate the _IJ-OpenCV_ and _Multi-Template Matching_ update site.  
 
 - [Python](https://github.com/multi-template-matching/MultiTemplateMatching-Python)  
