@@ -1,9 +1,3 @@
----
-layout: default
-title: Parameters
-permalink: doc/parameters
----
-
 ## Input images
 
 * (1) _Template image_ : This is the image searched in the target image. It must be smaller than the target image. It can be of any bit depth. RGB images are automatically converted to 32-bit grayscale.
