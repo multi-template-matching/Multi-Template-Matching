@@ -7,11 +7,9 @@ author: LauLauThom
 email: laurent132.thomas@laposte.net
 
 description: > # this means to ignore newlines until "baseurl:"
-
-HomePage and documentation for the Multi-Template matching project.
-A simple solution for object-detection from one or several template images.
-Available for Fiji, Python and KNIME.
-
+   HomePage and documentation for the Multi-Template matching project.
+   A simple solution for object-detection from one or several template images.
+   Available for Fiji, Python and KNIME.
 
 # social links
 
