@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: How does it work ?
 permalink: doc/explanations
 ---

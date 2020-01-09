@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Multi-channel and 3D images
 permalink: doc/multichannel
 ---
