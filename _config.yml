@@ -12,7 +12,7 @@ description: > # this means to ignore newlines until "baseurl:"
    Available for Fiji, Python and KNIME.
 
 # social links
-
 twitter_username: LauLauThom
-
 github_username:  LauLauThom
+
+show_excerpts: true
