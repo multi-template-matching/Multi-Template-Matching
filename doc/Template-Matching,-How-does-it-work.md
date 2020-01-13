@@ -22,9 +22,7 @@ __with a difference score__, a high probability correspond to a low score (low d
 
 The correlation map is computed for each image with every template provided.  
 
-<p align="center">
-<img src="https://github.com/LauLauThom/MultiTemplateMatching/blob/master/Images/TemplateMatching.png" alt="TemplateMatching_Perspective" width="850" height="220">
-</p>
+![Image](images/3Dprofile.png)
 
 ## 2) Extrema detection
 The computation of the correlation map is followed by extrema detection to list the possible locations of the template in the image. Each extrema corresponds to the possible location of a bounding box of dimensions identical to the template as illustrated below in Figure 2.c).  
@@ -41,11 +39,7 @@ The degree of overlap is measured by the ratio of the __Intersection (3.a) over 
 A user-defined threshold on the IoU is used as the maximal value of overlap allowed between bounding boxes, such that __if a bounding box overlaps above the IoU threshold with a bounding box of higher score, then this lower score bounding box is deleted.__ This effectively removes overlapping detection of the same object, while still allowing the detections of close objects for which the bounding boxes might slightly overlap.  
 If multiple templates are provided, the NMS is performed on the full set of extrema from the different correlation maps.
 
-
-
-<p align="center">
-<img src="https://github.com/LauLauThom/MultiTemplateMatching/blob/master/Images/NMS.png" alt="NMS" width="400" height="200">
-</p>
+![Image](images/NMS.png)
 
 ## 4) Resulting detections
 The NMS does not compute the overlap between all possible overlapping bounding boxes. It actually processes from the highest score bounding boxes to the lowest score ones, until it collects N bounding boxes (with N the number of expected objects in each image) or until there are no more bounding boxes. In this latter case, the number of returned bounding boxes can be below N. 
