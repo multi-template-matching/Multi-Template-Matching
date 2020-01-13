@@ -5,9 +5,7 @@ permalink: doc/explanations
 ---
 
 ## Overview
-<p align="center">
-<img src="https://github.com/LauLauThom/MultiTemplateMatching/blob/master/Images/TemplateMatching_Montage.png" alt="Montage" width="700" height="250">
-</p>
+[Image](Images/StepsMedaka.png)
 
 __1.a)__ Template and __1.c)__, __1.d)__ searched image  
 __1.b)__ Correlation map with local extrema overlapped as red crosses  
