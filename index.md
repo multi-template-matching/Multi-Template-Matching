@@ -18,6 +18,9 @@ Refer to the wiki sections of the respective GitHub repository for the implement
 There are a couple of generic documentation pages:
 - [Introduction](https://multi-template-matching.github.io/Multi-Template-Matching/doc/explanations)
 
+Also check the youtube tutorials
+{% youtube "https://youtu.be/KlzIqSG5XBU" %}
+
 # Citation
 If you use these implementations, please cite:
   
