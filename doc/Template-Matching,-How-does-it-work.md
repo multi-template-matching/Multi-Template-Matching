@@ -5,7 +5,7 @@ permalink: doc/explanations
 ---
 
 ## Overview
-[Image](images/StepsMedaka.png)
+![Image](images/StepsMedaka.png)
 
 __1.a)__ Template and __1.c)__, __1.d)__ searched image  
 __1.b)__ Correlation map with local extrema overlapped as red crosses  
