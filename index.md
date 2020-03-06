@@ -17,6 +17,7 @@ Download the [workflow](https://hub.knime.com/l.thomas/spaces/Public/latest/Mult
 Refer to the wiki sections of the respective GitHub repository for the implementation-specific documentation.  
 There are a couple of generic documentation pages:
 - [Introduction](https://multi-template-matching.github.io/Multi-Template-Matching/doc/explanations)
+- [Parameters](https://multi-template-matching.github.io/Multi-Template-Matching/doc/parameters)
 - [Multi-Channel and 3D image](https://multi-template-matching.github.io/Multi-Template-Matching/doc/multichannel)
 
 
