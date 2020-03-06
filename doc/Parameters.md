@@ -1,3 +1,8 @@
+---
+layout: default
+title: Parameters
+permalink: doc/parameters
+---
 
 ## Input images
 
@@ -53,4 +58,9 @@ __If a correlation-score is used__, only maxima above this threshold are collect
 
 Parameters| Explanations
 ----------|-------------
-__Maximal overlap__ (range 0-1, default 0.3) | This is the maximal value allowed for the ratio of the Intersection Over Union (IoU) area between overlapping bounding boxes. If 2 bounding boxes are overlapping above this threshold, then the lower score one is discarded. Typically in the range 0.1-0.5, depending on object-size and density. High object-density usually means more overlap between bounding boxes.
+__Maximal overlap__ (range 0-1, default 0.3) | This is the maximal value allowed for the ratio of the Intersection Over Union (IoU) area between overlapping bounding boxes. Typically in the range 0.1-0.5.
+
+The IoU is used for the Non-Maxima Supression.  
+Overlapping bounding-boxes can either predict the locations of distinct neighboring objects (lower overlap), or the location of the same object at slightly shifted positions (e.g by 2 different templates, higher overlap).  
+If 2 candidate bounding-boxes are overlapping above this overlap threshold, then the lower score bounding-box is discarded.  
+The value of this parameter depends on object-size and density: high object-density usually means more overlap between bounding boxes.
