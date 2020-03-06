@@ -16,9 +16,9 @@ __1.d)__ Final yielded detections after Non-Maxima Suppression to return the N_o
 The algorithm uses the template image as a sliding window translated over the image, and at each position of the template computes a similarity score between the template and the image patch.  
 This results in a __correlation map__, for which the pixel value at position (x,y) is proportional to the similarity between the template and image patch, at this (x,y) position in the image.   
 
-Different formulas can be used to compute the similarity score. See [[Parameters|Parameters]] section.  
-__With a correlation score__, a high probability to find the object corresponds to a high score value, while 
-__with a difference score__, a high probability correspond to a low score (low difference between the pixel values).
+Different formulas can be used to compute the similarity score. See section [Parameters](https://multi-template-matching.github.io/Multi-Template-Matching/doc/parameters).  
+__With a correlation score__, a high probability to find the object corresponds to a high score value.  
+__With a difference score__, a high probability correspond to a low score (low difference between the pixel values).
 
 The correlation map is computed for each image with every template provided.  
 
