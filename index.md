@@ -8,7 +8,7 @@ We currently have implemented Multi-Template Matching in:
 Activate the _IJ-OpenCV_ and _Multi-Template Matching_ update site.  
 
 - [Python](https://github.com/multi-template-matching/MultiTemplateMatching-Python)  
-_pip install Multi-Template Matching_
+_pip install Multi-Template-Matching_ (case sensitive and mind the - )
 
 - [KNIME](https://github.com/multi-template-matching/MultiTemplateMatching-KNIME) (relying on the python implementation)  
 Download the [workflow](https://hub.knime.com/l.thomas/spaces/Public/latest/Multi-Template%20Matching) from the KNIME Hub.
