@@ -18,6 +18,7 @@ Refer to the wiki sections of the respective GitHub repository for the implement
 In particular, the Fiji and KNIME implementation have dedicated __youtube tutorials__, while the python implementation comes with example notebooks that can be executed in a browser.  
 There are a couple of generic documentation pages:
 - [Poster](http://doi.org/10.5281/zenodo.3698982) of the project available on Zenodo
+- [Flowchart](https://multi-template-matching.github.io/Multi-Template-Matching/doc/Flowchart) of the implementation
 - [Introduction](https://multi-template-matching.github.io/Multi-Template-Matching/doc/explanations)
 - [Parameters](https://multi-template-matching.github.io/Multi-Template-Matching/doc/parameters)
 - [Multi-Channel and 3D image](https://multi-template-matching.github.io/Multi-Template-Matching/doc/multichannel)
