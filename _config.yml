@@ -12,8 +12,8 @@ description: > # this means to ignore newlines until "baseurl:"
    A simple solution for object-detection from one or several template images.
    Available for Fiji, Python and KNIME.
 
-# social links
-twitter_username: LauLauThom
-github_username:  LauLauThom
+social links: 
+ twitter_username: LauLauThom
+ github_username:  LauLauThom
 
 show_excerpts: true
