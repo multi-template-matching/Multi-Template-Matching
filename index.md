@@ -28,8 +28,10 @@ There are a couple of generic documentation pages:
 # Citation
 If you use these implementations, please cite:
   
-Thomas, L.S.V., Gehrig, J. Multi-template matching: a versatile tool for object-localization in microscopy images.   
-BMC Bioinformatics 21, 44 (2020). https://doi.org/10.1186/s12859-020-3363-7
+Thomas, L.S.V., Gehrig, J.  
+_Multi-template matching: a versatile tool for object-localization in microscopy images_  
+BMC Bioinformatics 21, 44 (2020). https://doi.org/10.1186/s12859-020-3363-7  
+Download the citation as a [ris file](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-020-3363-7.ris).
 
 # Funding
 This project has received funding from the European Union’s Horizon 2020 research and innovation programme under the Marie Sklodowska-Curie grant agreement No 721537 “ImageInLife”.
