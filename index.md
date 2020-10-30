@@ -17,11 +17,12 @@ Download the [workflow](https://hub.knime.com/l.thomas/spaces/Public/latest/Mult
 Refer to the wiki sections of the respective GitHub repository for the implementation-specific documentation.  
 In particular, the Fiji and KNIME implementation have dedicated __youtube tutorials__, while the python implementation comes with example notebooks that can be executed in a browser.  
 There are a couple of generic documentation pages:
-- [Poster](http://doi.org/10.5281/zenodo.3698982) of the project available on Zenodo
-- [Flowchart](https://multi-template-matching.github.io/Multi-Template-Matching/doc/Flowchart) of the implementation
+- [YouTube playlist](https://www.youtube.com/playlist?list=PLHZOgc1s26MJ8QjYau7NcG5k0zh9SjHpo)
 - [Introduction](https://multi-template-matching.github.io/Multi-Template-Matching/doc/explanations)
 - [Parameters](https://multi-template-matching.github.io/Multi-Template-Matching/doc/parameters)
+- [Flowchart](https://multi-template-matching.github.io/Multi-Template-Matching/doc/Flowchart) of the implementation
 - [Multi-Channel and 3D image](https://multi-template-matching.github.io/Multi-Template-Matching/doc/multichannel)
+- [Poster](http://doi.org/10.5281/zenodo.3698982) of the project available on Zenodo
 
 
 # Citation
