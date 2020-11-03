@@ -2,7 +2,7 @@
 Multi-Template matching is an easy-to-use object-detection algorithm.  
 It allows to search one (or several) template images into a larger image.
 
-We currently have implemented Multi-Template Matching in:
+We currently have implemented Multi-Template-Matching (MTM) in:
 
 - [Fiji](https://github.com/multi-template-matching/MultiTemplateMatching-Fiji)  
 Activate the _IJ-OpenCV_ and _Multi-Template Matching_ update site.  
@@ -11,7 +11,8 @@ Activate the _IJ-OpenCV_ and _Multi-Template Matching_ update site.
 _pip install Multi-Template-Matching_ (case sensitive and mind the - )
 
 - [KNIME](https://github.com/multi-template-matching/MultiTemplateMatching-KNIME) (relying on the python implementation)  
-Download the [workflow](https://hub.knime.com/l.thomas/spaces/Public/latest/Multi-Template%20Matching) from the KNIME Hub.
+This repository also contains the workflow for classification using multiple templates.  
+Download the [workflow](https://kni.me/w/9i0_HPPQlbNzW598) from the KNIME Hub.
 
 # Documentation
 Refer to the wiki sections of the respective GitHub repository for the implementation-specific documentation.  
