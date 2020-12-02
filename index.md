@@ -17,7 +17,8 @@ Download the [workflow](https://kni.me/w/9i0_HPPQlbNzW598) from the KNIME Hub.
 # Documentation
 Refer to the wiki sections of the respective GitHub repository for the implementation-specific documentation.  
 In particular, the Fiji and KNIME implementation have dedicated __youtube tutorials__, while the python implementation comes with example notebooks that can be executed in a browser.  
-There are a couple of generic documentation pages:
+There are a couple of generic documentation ressources:
+- the [open-access publication](https://doi.org/10.1186/s12859-020-3363-7)
 - [YouTube playlist](https://www.youtube.com/playlist?list=PLHZOgc1s26MJ8QjYau7NcG5k0zh9SjHpo)
 - [Introduction](https://multi-template-matching.github.io/Multi-Template-Matching/doc/explanations)
 - [Parameters](https://multi-template-matching.github.io/Multi-Template-Matching/doc/parameters)
@@ -31,7 +32,7 @@ If you use these implementations, please cite:
   
 Thomas, L.S.V., Gehrig, J.  
 _Multi-template matching: a versatile tool for object-localization in microscopy images_  
-BMC Bioinformatics 21, 44 (2020). https://doi.org/10.1186/s12859-020-3363-7  
+BMC Bioinformatics 21, 44 (2020). [https://doi.org/10.1186/s12859-020-3363-7](https://doi.org/10.1186/s12859-020-3363-7)
 Download the citation as a [ris file](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-020-3363-7.ris).
 
 # Funding
