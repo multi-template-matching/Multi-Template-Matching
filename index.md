@@ -20,6 +20,7 @@ In particular, the Fiji and KNIME implementation have dedicated __youtube tutori
 There are a couple of generic documentation ressources:
 - the [open-access publication](https://doi.org/10.1186/s12859-020-3363-7)
 - [YouTube playlist](https://www.youtube.com/playlist?list=PLHZOgc1s26MJ8QjYau7NcG5k0zh9SjHpo)
+- [Recorded talk](https://youtu.be/xL4uNloai9Q) about single vs template matching, and other outcomes of my PhD
 - [Introduction](https://multi-template-matching.github.io/Multi-Template-Matching/doc/explanations)
 - [Parameters](https://multi-template-matching.github.io/Multi-Template-Matching/doc/parameters)
 - [Flowchart](https://multi-template-matching.github.io/Multi-Template-Matching/doc/Flowchart) of the implementation
