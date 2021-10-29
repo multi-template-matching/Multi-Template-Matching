@@ -1,14 +1,21 @@
 # Multi-Template Matching
-Multi-Template matching is an easy-to-use object-detection algorithm.  
-It allows to search one (or several) template images into a larger image.
+Multi-Template-Matching is an accessible method to perform object-detection in images using one or several template images for the search.  
+The strength of the method compared to previously available single-template matching, is that by combining the detections from multiple templates,
+one can improve the range of detectable patterns. This helps if you expect variability of the object-perspective in your images, such as rotation, flipping...  
+The detections from the different templates are not simply combined, they are filtered using Non-Maxima Supression (NMS) to prevent overlapping detections.  
 
+# Implementations
 We currently have implemented Multi-Template-Matching (MTM) in:
 
 - [Fiji](https://github.com/multi-template-matching/MultiTemplateMatching-Fiji)  
 Activate the _IJ-OpenCV_ and _Multi-Template Matching_ update site.  
 
-- [Python](https://github.com/multi-template-matching/MultiTemplateMatching-Python)  
+- [Original Python implementation](https://github.com/multi-template-matching/MultiTemplateMatching-Python) relying on OpenCV matchTemplate  
 _pip install Multi-Template-Matching_ (case sensitive and mind the - )
+
+- [python-oop](https://github.com/multi-template-matching/mtm-python-oop) : a more object-oriented programming version, with a cleaner syntax.
+This one relies on scikit-image and shapely (for the BoudingBox)  
+Maybe a bit slower but more interoperable and easier to extend.  
 
 - [KNIME](https://github.com/multi-template-matching/MultiTemplateMatching-KNIME) (relying on the python implementation)  
 This repository also contains the workflow for classification using multiple templates.  
