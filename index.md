@@ -24,16 +24,19 @@ Download the [workflow](https://kni.me/w/9i0_HPPQlbNzW598) from the KNIME Hub.
 # Documentation
 Refer to the wiki sections of the respective GitHub repository for the implementation-specific documentation.  
 In particular, the Fiji and KNIME implementation have dedicated __youtube tutorials__, while the python implementation comes with example notebooks that can be executed in a browser.  
-There are a couple of generic documentation ressources:
-- the [open-access publication](https://doi.org/10.1186/s12859-020-3363-7)
-- [YouTube playlist](https://www.youtube.com/playlist?list=PLHZOgc1s26MJ8QjYau7NcG5k0zh9SjHpo)
-- [Recorded talk](https://youtu.be/xL4uNloai9Q) about single vs template matching, and other outcomes of my PhD
+Below some generic documentation pages:  
+
 - [Introduction](https://multi-template-matching.github.io/Multi-Template-Matching/doc/explanations)
 - [Parameters](https://multi-template-matching.github.io/Multi-Template-Matching/doc/parameters)
 - [Flowchart](https://multi-template-matching.github.io/Multi-Template-Matching/doc/Flowchart) of the implementation
 - [Multi-Channel and 3D image](https://multi-template-matching.github.io/Multi-Template-Matching/doc/multichannel)
-- [Poster](http://doi.org/10.5281/zenodo.3698982) of the project available on Zenodo
 
+Additional resources: 
+- the [open-access publication](https://doi.org/10.1186/s12859-020-3363-7)
+- [YouTube playlist](https://www.youtube.com/playlist?list=PLHZOgc1s26MJ8QjYau7NcG5k0zh9SjHpo)
+- [Recorded talk](https://youtu.be/xL4uNloai9Q) about single vs template matching, and other outcomes of my PhD
+- [Poster](http://doi.org/10.5281/zenodo.3698982) of the project available on Zenodo
+- my [PhD thesis](https://doi.org/10.11588/heidok.00030804) on object-detection and image-annotation solutions for microscopy
 
 # Citation
 If you use these implementations, please cite:
