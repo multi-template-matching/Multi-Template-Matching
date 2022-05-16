@@ -33,6 +33,7 @@ Below some generic documentation pages:
 
 Additional resources: 
 - the [open-access publication](https://doi.org/10.1186/s12859-020-3363-7)
+- [Slides](https://doi.org/10.5281/zenodo.6554166)
 - [YouTube playlist](https://www.youtube.com/playlist?list=PLHZOgc1s26MJ8QjYau7NcG5k0zh9SjHpo)
 - [Recorded talk](https://youtu.be/xL4uNloai9Q) about single vs template matching, and other outcomes of my PhD
 - [Poster](http://doi.org/10.5281/zenodo.3698982) of the project available on Zenodo
