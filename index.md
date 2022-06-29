@@ -38,6 +38,7 @@ Additional resources:
 - [Recorded talk](https://youtu.be/xL4uNloai9Q) about single vs template matching, and other outcomes of my PhD
 - [Poster](http://doi.org/10.5281/zenodo.3698982) of the project available on Zenodo
 - my [PhD thesis](https://doi.org/10.11588/heidok.00030804) on object-detection and image-annotation solutions for microscopy
+- [Research outcomes/publications](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5010834352830895769) citing MTM
 
 # Citation
 If you use these implementations, please cite:
